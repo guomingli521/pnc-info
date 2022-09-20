@@ -14,6 +14,8 @@
 
 多机调度 
 
+<center> <video src="https://github.com/guomingli521/pnc-info/blob/main/video/pd.mp4?raw=true" width="400px" height="300px" controls="controls"></video> </center>
+
 ### 物流/仓储/安防/巡检机器人
 场景：非结构化道路
 
@@ -23,6 +25,8 @@
 场景：室内、室外通用场景
 
 贴边 梯控 自动覆盖 回充 回洗
+
+<center> <video src="https://github.com/guomingli521/pnc-info/blob/main/video/gs.mp4?raw=true" width="400px" height="300px" controls="controls"></video> </center>
 
 ### 自动驾驶
 场景：城市道路,封闭道路，高速
@@ -43,20 +47,26 @@
 #### 基于搜索的规划算法
 dijkstra 
 
+![dijkstra](https://github.com/guomingli521/pnc-info/blob/main/gif/Dijkstra.gif?raw=true#pic_center =200x200)
+
 astar 
+
+![astar](https://github.com/guomingli521/pnc-info/blob/main/gif/Astar.gif?raw=true#pic_center =200x200)
 
 hybridastar
 
-![astar](https://github.com/guomingli521/pnc-info/blob/main/image/hybrid_astart_1.png?raw=true#pic_center =200x200)
-![astar](https://github.com/guomingli521/pnc-info/blob/main/image/hybrid_astart_1.png?raw=true#pic_center =200x200)
-![astar](https://github.com/guomingli521/pnc-info/blob/main/image/hybrid_astart_1.png?raw=true#pic_center =200x200)
+![hybrid_astar](https://github.com/guomingli521/pnc-info/blob/main/image/hybrid_astart_1.png?raw=true#pic_center =200x200)
+![hybrid_astar](https://github.com/guomingli521/pnc-info/blob/main/image/hybrid_astart_2.png?raw=true#pic_center =200x200)
+![hybrid_astar](https://github.com/guomingli521/pnc-info/blob/main/image/hybrid_astart_3.png?raw=true#pic_center =200x200)
 
 rs curve
+
+![rs](https://github.com/guomingli521/pnc-info/blob/main/gif/rs.gif?raw=true#pic_center =200x200)
 
 #### 基于采样的规划算法
 rrt 
 
-![rrt](https://github.com/guomingli521/pnc-info/blob/main/gif/RRT_2D.gif?raw=true)
+![rrt](https://github.com/guomingli521/pnc-info/blob/main/gif/RRT_2D.gif?raw=true =200x200)
 
 
 dwa 
