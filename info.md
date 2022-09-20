@@ -52,6 +52,8 @@ rs curve
 #### 基于采样的规划算法
 rrt 
 
+![rrt](https://github.com/guomingli521/pnc-info/blob/main/gif/RRT_2D.gif)
+
 dwa 
 
 teb
