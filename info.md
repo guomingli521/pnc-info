@@ -47,12 +47,17 @@ astar
 
 hybridastar
 
+![astar](https://github.com/guomingli521/pnc-info/blob/main/image/hybrid_astart_1.png?raw=true#pic_center =200x200)
+![astar](https://github.com/guomingli521/pnc-info/blob/main/image/hybrid_astart_1.png?raw=true#pic_center =200x200)
+![astar](https://github.com/guomingli521/pnc-info/blob/main/image/hybrid_astart_1.png?raw=true#pic_center =200x200)
+
 rs curve
 
 #### 基于采样的规划算法
 rrt 
 
-![rrt](https://github.com/guomingli521/pnc-info/blob/main/gif/RRT_2D.gif)
+![rrt](https://github.com/guomingli521/pnc-info/blob/main/gif/RRT_2D.gif?raw=true)
+
 
 dwa 
 
